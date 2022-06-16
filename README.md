@@ -1,8 +1,7 @@
 # README.md
 # Schroedinger equation deep learning project
 # Version 1: 25 September 2017
-# Steven K. Steinke
-# steven.k.steinke@gmail.com
+
 This project uses Tensorflow to first generate random 1-D potentials, then solve them using
 gradient descent. These potentials and solutions are partitioned into training and validation data.
 Next, the training data are fed into a simple neural network with 2 hidden layers that use
